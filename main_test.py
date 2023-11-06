@@ -3,6 +3,8 @@ from tkinter import messagebox
 
 # this is the main script for the group project
 
+
+
 class Admin:
     pass
 class Volunteer:
@@ -10,7 +12,6 @@ class Volunteer:
 class Refugee:
     pass
 
-# add comment test
 def LogIn():
     messagebox.showinfo("Log In:", "Log In Instructions")
 
