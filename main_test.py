@@ -1,16 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# this is the main script for the group project
-
-
-
-
-
-
-
-
-
 class Admin:
     pass
 class Volunteer:
